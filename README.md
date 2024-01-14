@@ -1,0 +1,2 @@
+# MeramSosyalTesis
+Mega Final Projesi
